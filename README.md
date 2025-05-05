@@ -13,6 +13,7 @@
 ## 📚 Projects
   + [Multiplayer Game in Unity Engine](https://github.com/Nycz-lab/Mischief)
   + [Leetcode contributions](https://leetcode.com/u/calvint-97/)
+  + [API Weather APP](https://github.com/CalvinT-97/WeatherApp-API)
 
 ## 👋🏻 Connect with me
   [LinkedIn](https://www.linkedin.com/in/calvin-thiele-7901a1338/)
