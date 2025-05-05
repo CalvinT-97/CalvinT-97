@@ -1,5 +1,7 @@
 # About me
 
+![Image](https://github.com/user-attachments/assets/148320e9-603a-4005-abf1-f666f1eac4cd)
+
 ##Hello, my name is Calvin. I am a software Engineer with experience in designing creating and maintaining Software.
 
 ## 💼 Experience
