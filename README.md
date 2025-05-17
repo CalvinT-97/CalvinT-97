@@ -1,6 +1,6 @@
 # About me
 
-##Hello, my name is Calvin. I am a software Engineer with experience in designing creating and maintaining Software.
+## Hello, my name is Calvin. I am a software Engineer with experience in designing creating and maintaining Software.
 
 ## 💼 Experience
 
